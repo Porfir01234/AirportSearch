@@ -36,8 +36,8 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
             
             latitude = String(lat)
             longitude = String(lon)
-            //print(lat)
-            //print(lon)
+           // print(lat)
+           // print(lon)
         }
     }
     
